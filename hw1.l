@@ -18,6 +18,7 @@
 "while" return WHILE;
 "for" return FOR;
 "var" return VAR;
+"func" return FUNC;
 "proc" return PROC;
 "return" return RETURN;
 "null" return NULLL;
