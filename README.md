@@ -20,10 +20,10 @@ Syntax Analysis
 Semantic Analysis
 Intermediate Code Generation
 
-Requirements: 
+#Requirements: 
   Flex Bison setup.
 
-How to run:
+#How to run:
   use bash commands to run on terminal-
 
   *file_name = part1/part2/part3.
