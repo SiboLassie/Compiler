@@ -24,14 +24,14 @@ Intermediate Code Generation
   Flex Bison setup.
 
 #How to run:
-  use bash commands to run on terminal-
+ use bash commands to run on terminal-
 
-  *file_name = part1/part2/part3.
-  *must be the same part to run.
-  *fileX = any file provided on exmaples folder. 
+ *file_name = part1/part2/part3.
+ *must be the same part to run.
+ *fileX = any file provided on exmaples folder. 
 
-  code:
-    lex file_name.l
-    yacc -d file_name.y --debug --verbose
-    cc -o fileX y.tab.c -Ly -ll 
-    ./fileX <test
+ code:
+  lex file_name.l
+  yacc -d file_name.y --debug --verbose
+  cc -o fileX y.tab.c -Ly -ll 
+  ./fileX <test
